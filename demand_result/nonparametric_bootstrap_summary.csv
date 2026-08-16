@@ -1,0 +1,6 @@
+Province,Distribution,Original_factual_n,Original_counterfactual_n,Requested_bootstraps,Bootstrap_pairs_with_any_valid_result,Minimum_RR_valid_fraction,Minimum_RIC_valid_fraction
+Guizhou Province,genextreme,525,525,1000,1000,0.472,1.0
+Sichuan Province,genextreme,525,525,1000,1000,0.976,1.0
+Hunan Province,genextreme,525,525,1000,1000,0.685,1.0
+Hubei Province,genextreme,525,525,1000,1000,0.508,1.0
+Chongqing Municipality,genextreme,525,525,1000,1000,0.793,1.0

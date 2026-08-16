@@ -1,0 +1,11 @@
+dataset,best_distribution,best_sumsquare_error,rank_sse
+Chongqing Municipality__counterfactual,johnsonsu,0.3516574367943797,1.0
+Chongqing Municipality__factual,gennorm,0.2057881755918378,1.0
+Guizhou Province__counterfactual,gennorm,0.3580756660782479,1.0
+Guizhou Province__factual,johnsonsu,0.26712735346912053,1.0
+Hubei Province__counterfactual,genextreme,0.21631864014877522,1.0
+Hubei Province__factual,gennorm,0.2789109622921657,1.0
+Hunan Province__counterfactual,pearson3,0.21667585970882006,1.0
+Hunan Province__factual,gennorm,0.15871910804235229,1.0
+Sichuan Province__counterfactual,gennorm,0.28083087953580355,1.0
+Sichuan Province__factual,pearson3,0.15904961536381468,1.0

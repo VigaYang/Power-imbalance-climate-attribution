@@ -1,0 +1,6 @@
+Province,Distribution,Factual_sample_size,Counterfactual_sample_size,Selected_percentile,Requested_bootstraps,Successful_bootstraps,Bootstrap_success_fraction,Valid_RR_bootstraps,Valid_RIC_bootstraps,RIC_denominator_epsilon
+Sichuan Province,gennorm,525,525,5.0,1000,1000,1.0,1000,1000,0.05
+Chongqing Municipality,gennorm,525,525,5.0,1000,1000,1.0,1000,1000,0.05
+Hubei Province,gennorm,525,525,5.0,1000,1000,1.0,1000,1000,0.05
+Hunan Province,gennorm,525,525,5.0,1000,1000,1.0,1000,1000,0.05
+Guizhou Province,gennorm,525,525,5.0,1000,1000,1.0,1000,1000,0.05

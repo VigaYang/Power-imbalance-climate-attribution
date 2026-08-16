@@ -1,0 +1,6 @@
+province,distribution,factual_sample_size,counterfactual_sample_size,requested_bootstraps,successful_bootstraps,bootstrap_success_fraction,minimum_valid_factual_bootstraps,minimum_valid_counterfactual_bootstraps,observed_2022_anomaly
+Sichuan Province,gennorm,525,525,1000,1000,1.0,1000,1000,-1.828918056
+Chongqing Municipality,gennorm,525,525,1000,1000,1.0,1000,1000,-2.495273047
+Hubei Province,gennorm,525,525,1000,1000,1.0,1000,1000,-2.451366989
+Hunan Province,gennorm,525,525,1000,1000,1.0,1000,1000,-2.54300027
+Guizhou Province,gennorm,525,525,1000,1000,1.0,1000,1000,-2.161248592

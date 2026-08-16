@@ -1,0 +1,6 @@
+Province,Distribution,Factual_sample_size,Counterfactual_sample_size,Requested_bootstraps,Successful_bootstraps
+Guizhou Province,genextreme,525,525,1000,1000
+Sichuan Province,genextreme,525,525,1000,1000
+Hunan Province,genextreme,525,525,1000,1000
+Hubei Province,genextreme,525,525,1000,1000
+Chongqing Municipality,genextreme,525,525,1000,1000

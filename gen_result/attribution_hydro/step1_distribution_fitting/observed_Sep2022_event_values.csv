@@ -1,0 +1,6 @@
+province_key,province,event_year,event_month,event_value,source_file
+guizhou,Guizhou Province,2022,9,-2.161248592,/home/users/weijia_6/Yangtze_code/gen_data/hydropower_anomaly/guizhou_hydro_anomaly_and_std_in_reg.csv
+chongqing,Chongqing Municipality,2022,9,-2.495273047,/home/users/weijia_6/Yangtze_code/gen_data/hydropower_anomaly/chongqing_hydro_anomaly_and_std_in_reg.csv
+sichuan,Sichuan Province,2022,9,-1.828918056,/home/users/weijia_6/Yangtze_code/gen_data/hydropower_anomaly/sichuan_hydro_anomaly_and_std_in_reg.csv
+hubei,Hubei Province,2022,9,-2.451366989,/home/users/weijia_6/Yangtze_code/gen_data/hydropower_anomaly/hubei_hydro_anomaly_and_std_in_reg.csv
+hunan,Hunan Province,2022,9,-2.54300027,/home/users/weijia_6/Yangtze_code/gen_data/hydropower_anomaly/hunan_hydro_anomaly_and_std_in_reg.csv

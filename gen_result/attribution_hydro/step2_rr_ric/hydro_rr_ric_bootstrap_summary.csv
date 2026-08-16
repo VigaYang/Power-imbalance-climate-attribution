@@ -1,0 +1,6 @@
+province,distribution,factual_sample_size,counterfactual_sample_size,requested_bootstraps,successful_bootstraps,success_fraction,minimum_valid_rr_replicates,minimum_valid_ric_replicates
+Guizhou Province,gennorm,525,525,1000,1000,1.0,1000,13
+Chongqing Municipality,gennorm,525,525,1000,1000,1.0,1000,1000
+Sichuan Province,gennorm,525,525,1000,1000,1.0,1000,887
+Hubei Province,gennorm,525,525,1000,1000,1.0,1000,118
+Hunan Province,gennorm,525,525,1000,1000,1.0,1000,843

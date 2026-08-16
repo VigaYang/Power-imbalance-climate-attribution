@@ -1,0 +1,11 @@
+dataset,best_distribution
+Chongqing Municipality__counterfactual,genextreme
+Chongqing Municipality__factual,lognorm
+Guizhou Province__counterfactual,gamma
+Guizhou Province__factual,genextreme
+Hubei Province__counterfactual,weibull_min
+Hubei Province__factual,weibull_min
+Hunan Province__counterfactual,genextreme
+Hunan Province__factual,genextreme
+Sichuan Province__counterfactual,lognorm
+Sichuan Province__factual,lognorm

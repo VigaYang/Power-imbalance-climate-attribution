@@ -1,0 +1,7 @@
+gen_data/
+demand_data/
+CN05.1_Tm_1961_2013_daily_025x025.nc
+HADGEM_1961_2013_his.nc
+HADGEM_1961_2013_his_qm_pergrid.nc
+HADGEM_1961_2013_his_358.nc
+*.nc
