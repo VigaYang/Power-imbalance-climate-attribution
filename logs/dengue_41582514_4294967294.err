@@ -1,5 +1,0 @@
-/apps/jasmin/jaspy/miniforge_envs/jaspy3.12/mf3-25.3.0-3/envs/jaspy3.12-mf3-25.3.0-3-v20250704/lib/python3.12/site-packages/scipy/interpolate/_interpolate.py:479: RuntimeWarning: divide by zero encountered in divide
-  slope = (y_hi - y_lo) / (x_hi - x_lo)[:, None]
-/apps/jasmin/jaspy/miniforge_envs/jaspy3.12/mf3-25.3.0-3/envs/jaspy3.12-mf3-25.3.0-3-v20250704/lib/python3.12/site-packages/scipy/interpolate/_interpolate.py:482: RuntimeWarning: invalid value encountered in multiply
-  y_new = slope*(x_new - x_lo)[:, None] + y_lo
-[2026-07-24T05:32:28.220] error: *** JOB 41582514 ON host1080 CANCELLED AT 2026-07-24T05:32:28 DUE TO TIME LIMIT ***
